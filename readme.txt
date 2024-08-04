@@ -5,4 +5,6 @@ Rahul made a changeee
 GOKUL SOLVED THIS
 GOKUL 
 
+##SYnc the changes from upstream
+git fetch --all --prune
 
